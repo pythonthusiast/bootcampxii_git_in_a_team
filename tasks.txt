@@ -1,0 +1,4 @@
+tambahkan info masing-masing member di dalam file txt dengan format:
+<namamember>.txt
+isi dengan email.
+
